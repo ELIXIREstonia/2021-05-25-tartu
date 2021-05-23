@@ -87,7 +87,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% if page.latlng %}
 <p id="where">
   <strong>Where:</strong>
-  Once registered, participants will be sent an email with instructions to join the event.
+  <a href="https://ut-ee.zoom.us/j/9926159519?pwd=OVY2Q2sxQkc0VlRkTXR2YzAyeUhGUT09">https://ut-ee.zoom.us/j/9926159519?pwd=OVY2Q2sxQkc0VlRkTXR2YzAyeUhGUT09</a>
 </p>
 {% endif %}
 
@@ -118,10 +118,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p>
-  <strong>Registration</strong>: Fill the following google form to register (the number of places is limited),<br>
-  <a href="https://docs.google.com/forms/d/16auYkLL8gZOmPJAWs7WtG4KFLb8j9vmCbinGgyGjBzU/">
-    https://docs.google.com/forms/d/16auYkLL8gZOmPJAWs7WtG4KFLb8j9vmCbinGgyGjBzU/
-  </a>
+  <strong>Registration</strong>: Registration for this workshop is now closed.
 </p>
 
 
